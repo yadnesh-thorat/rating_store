@@ -1,5 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/6832fb14-66d2-4cb8-b324-6fdfd42ebf6f" />
- Store Rating Platform
+🛒 Store Rating Platform ✨
 
 A full-stack, role-based web application for rating stores.  
 Built using **React.js (Frontend), Node.js + Express.js (Backend), and PostgreSQL (Database).**
